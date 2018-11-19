@@ -1,0 +1,5 @@
+C:\aramis_exo_algo\exo_5\exo_5\bin\Debug\exo_5.exe.config
+C:\aramis_exo_algo\exo_5\exo_5\bin\Debug\exo_5.exe
+C:\aramis_exo_algo\exo_5\exo_5\bin\Debug\exo_5.pdb
+C:\aramis_exo_algo\exo_5\exo_5\obj\Debug\exo_5.exe
+C:\aramis_exo_algo\exo_5\exo_5\obj\Debug\exo_5.pdb

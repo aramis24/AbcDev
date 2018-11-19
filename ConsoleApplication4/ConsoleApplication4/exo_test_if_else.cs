@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string beau;
+
+            Console.WriteLine("Fait-il beau ? (o/n)");
+            beau = Console.ReadLine();
+
+            if (beau == "o")
+            {
+                Console.WriteLine("je plante des tulipes");
+                Console.WriteLine("j'enlève les mauvaises herbes");
+
+            }
+            else if (true)
+            {
+                
+            }
+            {
+                Console.WriteLine("je téléphoen à pierre");
+
+
+            }
+            Console.ReadKey();
+        }
+    }
+}

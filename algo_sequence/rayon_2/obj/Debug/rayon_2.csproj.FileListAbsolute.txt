@@ -1,0 +1,6 @@
+C:\aramis_exo_algo\algo_sequence\rayon_2\bin\Debug\rayon_2.exe.config
+C:\aramis_exo_algo\algo_sequence\rayon_2\bin\Debug\rayon_2.exe
+C:\aramis_exo_algo\algo_sequence\rayon_2\bin\Debug\rayon_2.pdb
+C:\aramis_exo_algo\algo_sequence\rayon_2\obj\Debug\rayon_2.exe
+C:\aramis_exo_algo\algo_sequence\rayon_2\obj\Debug\rayon_2.pdb
+C:\aramis_exo_algo\algo_sequence\rayon_2\obj\Debug\rayon_2.csprojResolveAssemblyReference.cache

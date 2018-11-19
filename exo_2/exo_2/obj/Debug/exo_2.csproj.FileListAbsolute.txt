@@ -1,0 +1,6 @@
+C:\aramis_exo_algo\exo_2\exo_2\bin\Debug\exo_2.exe.config
+C:\aramis_exo_algo\exo_2\exo_2\obj\Debug\exo_2.csprojResolveAssemblyReference.cache
+C:\aramis_exo_algo\exo_2\exo_2\bin\Debug\exo_2.exe
+C:\aramis_exo_algo\exo_2\exo_2\bin\Debug\exo_2.pdb
+C:\aramis_exo_algo\exo_2\exo_2\obj\Debug\exo_2.exe
+C:\aramis_exo_algo\exo_2\exo_2\obj\Debug\exo_2.pdb

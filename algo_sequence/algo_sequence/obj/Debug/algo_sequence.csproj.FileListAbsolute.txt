@@ -1,0 +1,6 @@
+C:\aramis_exo_algo\algo_sequence\algo_sequence\bin\Debug\algo_sequence.exe.config
+C:\aramis_exo_algo\algo_sequence\algo_sequence\bin\Debug\algo_sequence.exe
+C:\aramis_exo_algo\algo_sequence\algo_sequence\bin\Debug\algo_sequence.pdb
+C:\aramis_exo_algo\algo_sequence\algo_sequence\obj\Debug\algo_sequence.exe
+C:\aramis_exo_algo\algo_sequence\algo_sequence\obj\Debug\algo_sequence.pdb
+C:\aramis_exo_algo\algo_sequence\algo_sequence\obj\Debug\algo_sequence.csprojResolveAssemblyReference.cache

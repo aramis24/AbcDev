@@ -1,0 +1,6 @@
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

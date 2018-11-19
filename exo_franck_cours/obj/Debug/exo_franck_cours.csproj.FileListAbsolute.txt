@@ -1,0 +1,6 @@
+C:\aramis_exo_algo\exo_franck_cours\bin\Debug\exo_franck_cours.exe.config
+C:\aramis_exo_algo\exo_franck_cours\bin\Debug\exo_franck_cours.exe
+C:\aramis_exo_algo\exo_franck_cours\bin\Debug\exo_franck_cours.pdb
+C:\aramis_exo_algo\exo_franck_cours\obj\Debug\exo_franck_cours.exe
+C:\aramis_exo_algo\exo_franck_cours\obj\Debug\exo_franck_cours.pdb
+C:\aramis_exo_algo\exo_franck_cours\obj\Debug\exo_franck_cours.csprojResolveAssemblyReference.cache

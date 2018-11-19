@@ -1,0 +1,6 @@
+C:\aramis_exo_algo\exo_test1_book\exo_test1_book\bin\Debug\exo_test1_book.exe.config
+C:\aramis_exo_algo\exo_test1_book\exo_test1_book\bin\Debug\exo_test1_book.exe
+C:\aramis_exo_algo\exo_test1_book\exo_test1_book\bin\Debug\exo_test1_book.pdb
+C:\aramis_exo_algo\exo_test1_book\exo_test1_book\obj\Debug\exo_test1_book.csprojResolveAssemblyReference.cache
+C:\aramis_exo_algo\exo_test1_book\exo_test1_book\obj\Debug\exo_test1_book.exe
+C:\aramis_exo_algo\exo_test1_book\exo_test1_book\obj\Debug\exo_test1_book.pdb

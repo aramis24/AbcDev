@@ -1,0 +1,5 @@
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\aramis_exo_algo\algo_sequence\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
