@@ -1,0 +1,6 @@
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_42\bin\Debug\exo_42.exe.config
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_42\bin\Debug\exo_42.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_42\bin\Debug\exo_42.pdb
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_42\obj\Debug\exo_42.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_42\obj\Debug\exo_42.pdb
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_42\obj\Debug\exo_42.csprojResolveAssemblyReference.cache

@@ -7,3 +7,6 @@ C:\aramis_exo_algo\exo_1\exo_1\obj\Debug\exo_1.pdb
 C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_1\bin\Debug\exo_1.exe.config
 C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_1\obj\Debug\exo_1.exe
 C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_1\obj\Debug\exo_1.pdb
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_1\bin\Debug\exo_1.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_1\bin\Debug\exo_1.pdb
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_1\obj\Debug\exo_1.csprojResolveAssemblyReference.cache

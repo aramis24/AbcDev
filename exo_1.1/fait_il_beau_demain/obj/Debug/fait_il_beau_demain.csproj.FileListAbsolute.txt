@@ -1,0 +1,5 @@
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1.1\fait_il_beau_demain\bin\Debug\fait_il_beau_demain.exe.config
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1.1\fait_il_beau_demain\bin\Debug\fait_il_beau_demain.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1.1\fait_il_beau_demain\bin\Debug\fait_il_beau_demain.pdb
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1.1\fait_il_beau_demain\obj\Debug\fait_il_beau_demain.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1.1\fait_il_beau_demain\obj\Debug\fait_il_beau_demain.pdb
