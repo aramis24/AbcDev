@@ -1,0 +1,6 @@
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_StructureAlternative\bin\Debug\exo_StructureAlternative.exe.config
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_StructureAlternative\bin\Debug\exo_StructureAlternative.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_StructureAlternative\bin\Debug\exo_StructureAlternative.pdb
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_StructureAlternative\obj\Debug\exo_StructureAlternative.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_StructureAlternative\obj\Debug\exo_StructureAlternative.exe
+C:\Users\CRM\Documents\GitHub\AbcDev\exo_1\exo_StructureAlternative\obj\Debug\exo_StructureAlternative.pdb
